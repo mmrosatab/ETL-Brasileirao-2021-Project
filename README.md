@@ -1,2 +1,2 @@
-# ETL-SocialMidia-Project
-Application for make ETL with social midia data
+# ETL-Brasileirao-2021-Project
+Application for build ETL with Brasileirao 2021 data
