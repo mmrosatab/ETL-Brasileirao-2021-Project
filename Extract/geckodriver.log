@@ -51,3 +51,49 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 1644795324947	Marionette	INFO	Stopped listening on port 46447
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644796386784	geckodriver	INFO	Listening on 127.0.0.1:47317
+1644796386794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile3X1bOd"
+*** You are running in headless mode.
+1644796387570	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3X1bOd/search.json.mozlz4", (void 0)))
+1644796392074	Marionette	INFO	Listening on port 37839
+1644796392216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644796404255	Marionette	INFO	Stopped listening on port 37839
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644796446537	geckodriver	INFO	Listening on 127.0.0.1:54431
+1644796446548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilegrtEwB"
+*** You are running in headless mode.
+1644796447292	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegrtEwB/search.json.mozlz4", (void 0)))
+1644796451574	Marionette	INFO	Listening on port 40865
+1644796451702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://z.moatads.com/globotv396322874610/moatad.js#moatClientLevel1=210786373&moatClientLevel2=2976215266&moatClientLevel3=5905036764&moatClientLevel4=138380479141&moatClientSlicer1=94377853&moatClientSlicer2=94896613&zMoatTvgPos=HOME1&zMoatAdUnit=/95377733/tvg_GE/Futebol.Home&zMoatPagina=home&zMoatAmbient=web&zMoatTVGPOS=HOME1&zMoatPgname=index, line 246: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644796463170	Marionette	INFO	Stopped listening on port 40865
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644796484611	geckodriver	INFO	Listening on 127.0.0.1:54803
+1644796485621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileQt7VrL"
+1644796486920	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQt7VrL/search.json.mozlz4", (void 0)))
+1644796492274	Marionette	INFO	Listening on port 34925
+1644796492640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644796501536	Marionette	INFO	Stopped listening on port 34925
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1644797186085	geckodriver	INFO	Listening on 127.0.0.1:33517
+1644797186098	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileya4I1g"
+1644797187375	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileya4I1g/search.json.mozlz4", (void 0)))
+1644797192918	Marionette	INFO	Listening on port 45941
+1644797193314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://tags.tiqcdn.com/utag/globo/ge/prod/utag.306.js?utv=ut4.46.202107091434, line 3: TypeError: document.querySelector(...) is null
+1644797204146	Marionette	INFO	Stopped listening on port 45941
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
