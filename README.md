@@ -13,12 +13,12 @@ information of Brasileirão 2021. The first step was get the data by scrapy for 
 - [ ] Create dashboard and charts
 
 
-This data can be founded in : 
+This data can be found in : 
 
 - https://interativos.globoesporte.globo.com/estatisticas/atletas/
 - https://interativos.globoesporte.globo.com/estatisticas/times/
 
-<img src="Images/athletes.png" width="300" height="200">
-<img src="Images/teams.png" width="300" height="200"> 
+<img src="Images/athletes.png" width="400" height="200">
+<img src="Images/teams.png" width="400" height="200"> 
 
 
