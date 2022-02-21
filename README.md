@@ -1,6 +1,6 @@
 # ETL-Brasileirao-2021-Project
 
-Application for build ETL with Brasileirao 2021 data
+Application for build ETL with Brasileirão 2021 data
 
 <div style="text-align: justify; padding: 1%">
   The purpose this application is build basic ETL program with data from globo esporte website. The data consists in information of Brasileirão 2021. The first step was get the data by scraping for to construct csv files.
