@@ -1,16 +1,16 @@
-name,number_of_games,value
-Pepê,30,48
-Yuri Alberto,30,46
-Thiago Santos,23,42
-Robson,31,42
-Cléber,25,41
-Marcão Silva,31,41
-Léo,28,40
-Marinho,24,38
-Nathan Silva,30,38
-Paulinho Moccelin,31,38
-Zé Roberto,32,38
-Moisés,22,37
-Zé Rafael,26,37
-Christian,30,37
-Fernando Sobral,32,37
+name,position,team,number_of_games,value
+Pepê,Meia Central,Cuiabá,30,48
+Yuri Alberto,Atacante,Internacional,30,46
+Thiago Santos,Volante,Grêmio,23,42
+Robson,Atacante,Fortaleza,31,42
+Cléber,Atacante,Ceará,25,41
+Marcão Silva,Volante,Sport,31,41
+Léo,Lateral Esquerda,São Paulo,28,40
+Marinho,Atacante,Santos,24,38
+Nathan Silva,Volante,Atlético-MG,30,38
+Paulinho Moccelin,Atacante,Sport,31,38
+Zé Roberto,Atacante,Atlético-GO,32,38
+Moisés,Lateral Esquerda,Internacional,22,37
+Zé Rafael,Meia Central,Palmeiras,26,37
+Christian,Volante,Athletico-PR,30,37
+Fernando Sobral,Meia Central,Ceará,32,37

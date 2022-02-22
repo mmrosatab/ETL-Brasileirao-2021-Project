@@ -1,16 +1,16 @@
-name,number_of_games,value
-Gilberto,31,4
-Artur,26,3
-Matheus Peixoto,12,2
-Praxedes,18,2
-Breno Lopes,22,2
-Ytalo,26,2
-Helinho,29,2
-Gustavo Maia,7,1
-Carlos Alberto,8,1
-Vitinho,12,1
-Wagner,12,1
-Arrascaeta,13,1
-Lucas Evangelista,14,1
-Jonas,15,1
-João Paulo,15,1
+name,position,team,number_of_games,value
+Gilberto,Atacante,Bahia,31,4
+Artur,Atacante,Bragantino,26,3
+Matheus Peixoto,Atacante,Juventude,12,2
+Praxedes,Volante,Internacional,18,2
+Breno Lopes,Atacante,Palmeiras,22,2
+Ytalo,Atacante,Bragantino,26,2
+Helinho,Atacante,Bragantino,29,2
+Gustavo Maia,Atacante,Nome da equipe,7,1
+Carlos Alberto,Atacante,América-MG,8,1
+Vitinho,Atacante,Athletico-PR,12,1
+Wagner,Meia Central,Juventude,12,1
+Arrascaeta,Meia Central,Flamengo,13,1
+Lucas Evangelista,Meia Central,Bragantino,14,1
+Jonas,Volante,Bahia,15,1
+João Paulo,Lateral Esquerda,América-MG,15,1

@@ -1,0 +1,15 @@
+1645564431004	geckodriver	INFO	Listening on 127.0.0.1:60319
+1645564431790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilerO5xbH"
+*** You are running in headless mode.
+1645564439395	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerO5xbH/search.json.mozlz4", (void 0)))
+1645564454441	Marionette	INFO	Listening on port 36893
+1645564455226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tags.tiqcdn.com/utag/globo/ge/prod/utag.306.js?utv=ut4.46.202107091434, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 1175 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 2615 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/globotv396322874610/moatad.js#moatClientLevel1=210786373&moatClientLevel2=2976215266&moatClientLevel3=5905036764&moatClientLevel4=138382260910&moatClientSlicer1=94377853&moatClientSlicer2=94896613&zMoatTvgPos=HOME1&zMoatAdUnit=/95377733/tvg_GE/Futebol.Home&zMoatPagina=home&zMoatAmbient=web&zMoatTVGPOS=HOME1&zMoatPgname=index, line 246: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 515 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645564658362	Marionette	INFO	Stopped listening on port 36893
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

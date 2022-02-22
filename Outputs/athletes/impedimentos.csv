@@ -1,16 +1,16 @@
-name,number_of_games,value
-Eder,17,16
-Rigoni,25,12
-Rony,25,12
-David,28,12
-Zé Roberto,32,12
-Fred,21,11
-Rodolfo José,28,11
-Yuri Alberto,30,10
-Robson,31,10
-Ribamar,20,9
-Fernandinho,15,8
-Rossi,20,8
-Lucas Braga,28,8
-Clayson,29,8
-Hulk,32,8
+name,position,team,number_of_games,value
+Eder,Atacante,São Paulo,17,16
+Rigoni,Atacante,Nome da equipe,25,12
+Rony,Atacante,Palmeiras,25,12
+David,Atacante,Fortaleza,28,12
+Zé Roberto,Atacante,Atlético-GO,32,12
+Fred,Atacante,Fluminense,21,11
+Rodolfo José,Atacante,América-MG,28,11
+Yuri Alberto,Atacante,Internacional,30,10
+Robson,Atacante,Fortaleza,31,10
+Ribamar,Atacante,América-MG,20,9
+Fernandinho,Atacante,Chapecoense,15,8
+Rossi,Atacante,Bahia,20,8
+Lucas Braga,Atacante,Santos,28,8
+Clayson,Atacante,Cuiabá,29,8
+Hulk,Atacante,Atlético-MG,32,8

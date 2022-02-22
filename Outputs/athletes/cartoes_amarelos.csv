@@ -1,16 +1,16 @@
-name,number_of_games,value
-Jadsom Silva,22,8
-João Lucas,31,8
-Rossi,20,7
-Felipe,26,7
-Reinaldo,26,7
-Vitor Mendes,30,7
-Willian Maranhão,30,7
-Paulinho Moccelin,31,7
-Zé Roberto,32,7
-Igor Vinícius,17,6
-Anselmo Ramon,24,6
-Marinho,24,6
-Marlon,25,6
-Patrick de Paula,26,6
-Rodrigo Dourado,26,6
+name,position,team,number_of_games,value
+Jadsom Silva,Volante,Bragantino,22,8
+João Lucas,Lateral Direito,Cuiabá,31,8
+Rossi,Atacante,Bahia,20,7
+Felipe,Volante,Fortaleza,26,7
+Reinaldo,Lateral Esquerda,São Paulo,26,7
+Vitor Mendes,Zagueiro Direito,Juventude,30,7
+Willian Maranhão,Volante,Atlético-GO,30,7
+Paulinho Moccelin,Atacante,Sport,31,7
+Zé Roberto,Atacante,Atlético-GO,32,7
+Igor Vinícius,Lateral Direito,São Paulo,17,6
+Anselmo Ramon,Atacante,Chapecoense,24,6
+Marinho,Atacante,Santos,24,6
+Marlon,Meia Central,Ceará,25,6
+Patrick de Paula,Volante,Palmeiras,26,6
+Rodrigo Dourado,Volante,Internacional,26,6

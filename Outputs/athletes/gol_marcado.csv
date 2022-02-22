@@ -1,16 +1,16 @@
-name,number_of_games,value
-Bruno Henrique,22,9
-Edenílson,29,9
-Hulk,32,9
-Ytalo,26,8
-Gilberto,31,8
-Robson,31,8
-Matheus Peixoto,12,7
-Yuri Alberto,30,7
-Gabriel,16,6
-Elton,27,6
-Yago Pikachu,30,6
-Ricardo Bueno,16,5
-Breno Lopes,22,5
-Terans,26,5
-Jô,28,5
+name,position,team,number_of_games,value
+Bruno Henrique,Atacante,Flamengo,22,9
+Edenílson,Volante,Internacional,29,9
+Hulk,Atacante,Atlético-MG,32,9
+Ytalo,Atacante,Bragantino,26,8
+Gilberto,Atacante,Bahia,31,8
+Robson,Atacante,Fortaleza,31,8
+Matheus Peixoto,Atacante,Juventude,12,7
+Yuri Alberto,Atacante,Internacional,30,7
+Gabriel,Atacante,Flamengo,16,6
+Elton,Atacante,Cuiabá,27,6
+Yago Pikachu,Meia Central,Fortaleza,30,6
+Ricardo Bueno,Atacante,Nome da equipe,16,5
+Breno Lopes,Atacante,Palmeiras,22,5
+Terans,Meia Central,Athletico-PR,26,5
+Jô,Atacante,Corinthians,28,5

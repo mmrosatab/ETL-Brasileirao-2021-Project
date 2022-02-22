@@ -1,16 +1,16 @@
-name,number_of_games,value
-Cuello,26,4
-Hulk,32,4
-Jô,28,3
-Rodriguinho,29,3
-Christian,30,3
-Yago Pikachu,30,3
-Renato Augusto,18,2
-Natanael,19,2
-Rossi,20,2
-Bruno Henrique,22,2
-Nikão,23,2
-Marinho,24,2
-Cléber,25,2
-Gabriel Sara,26,2
-Madson,28,2
+name,position,team,number_of_games,value
+Cuello,Meia Central,Bragantino,26,4
+Hulk,Atacante,Atlético-MG,32,4
+Jô,Atacante,Corinthians,28,3
+Rodriguinho,Meia Central,Bahia,29,3
+Christian,Volante,Athletico-PR,30,3
+Yago Pikachu,Meia Central,Fortaleza,30,3
+Renato Augusto,Meia Central,Nome da equipe,18,2
+Natanael,Lateral Esquerda,Atlético-GO,19,2
+Rossi,Atacante,Bahia,20,2
+Bruno Henrique,Atacante,Flamengo,22,2
+Nikão,Meia Central,Athletico-PR,23,2
+Marinho,Atacante,Santos,24,2
+Cléber,Atacante,Ceará,25,2
+Gabriel Sara,Meia Central,São Paulo,26,2
+Madson,Lateral Direito,Santos,28,2

@@ -1,9 +1,9 @@
-name,number_of_games,value
-Jailson,14,1
-Felipe Alves,20,1
-Gabriel Chapecó,20,1
-Richard,22,1
-Diego Alves,25,1
-João Paulo,29,1
-Fernando Miguel,33,1
-Tiago Volpi,33,1
+name,position,team,number_of_games,value
+Jailson,Goleiro,Palmeiras,14,1
+Felipe Alves,Goleiro,Fortaleza,20,1
+Gabriel Chapecó,Goleiro,Grêmio,20,1
+Richard,Goleiro,Ceará,22,1
+Diego Alves,Goleiro,Flamengo,25,1
+João Paulo,Goleiro,Santos,29,1
+Fernando Miguel,Goleiro,Atlético-GO,33,1
+Tiago Volpi,Goleiro,São Paulo,33,1
