@@ -15,10 +15,8 @@ Application for build ETL with Brasileirão 2021 data
 
 - This data can be found in :
 
-  - https://interativos.globoesporte.globo.com/estatisticas/atletas/
   - https://interativos.globoesporte.globo.com/estatisticas/times/
 
-  - <img src="Images/athletes.png" width="400" height="200">
   - <img src="Images/teams.png" width="400" height="200">
 
 #### Todo List
