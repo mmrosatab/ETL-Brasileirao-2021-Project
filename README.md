@@ -27,3 +27,4 @@ Application for build ETL with Brasileirão 2021 data
 - [ ] Load
   - [ ] Load data in relational database
 - [ ] Create dashboard and charts
+- [ ] Flow Diagram
